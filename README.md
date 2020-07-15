@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey 👋
+
+I'm Ben, a software engineer working as a Site Reliability Engineer @ [ecobee](https://www.ecobee.com/). I'm an enthusiast of all things Kubernetes, Observability, and Cloud-Native!
+
+```
+Twitter:    @benrottke
+LinkedIn:   linkedin.com/in/benrottke
+Website:    https://benrottke.com
+```
 
 <!--
 **xairos/xairos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
